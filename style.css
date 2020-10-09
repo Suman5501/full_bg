@@ -8,21 +8,25 @@ body,html {
 	background-size: cover;
   }
 
- 
-  h2,h1{
-	  text-align: center;
-  }
-  .details{
-	  text-align: center;
-	  margin-top: 5em;
-	  
+ h2,h1{
+	text-align: center;
   }
 
-  img{
-	  height:17em;
-	  width:2em;
+.details{
+	text-align: center;
+	margin-top: 5em;	  
+  }
+
+img{
+	height:17em;
+	width:2em;
   }
 
 btn{
 	padding: 1rem 2rem;
+}
+
+card{
+	background-color:#9fbdc2;
+	
 }
